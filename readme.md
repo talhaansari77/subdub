@@ -10,4 +10,5 @@ npx eslint --init  /or/ npm init @eslint/config@latest
 -- yes 
 -- npm 
 
-
+npm install dotenv
+npm install mongodb mongoose
